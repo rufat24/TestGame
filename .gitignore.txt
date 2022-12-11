@@ -1,0 +1,3 @@
+C:\Users\rufat\UnityProjects\tst\Temp
+C:\Users\rufat\UnityProjects\tst\obj
+C:\Users\rufat\UnityProjects\tst\Library
